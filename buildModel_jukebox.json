@@ -1,0 +1,12 @@
+{
+    "dbname":      "jukeboxDB",
+    "dbserver":    "127.0.0.1",
+    "dbport":      "3316",
+    "dbdriver":    "mysql",
+    "dbcharset":   "utf8",
+    "dbuser":      "www",
+    "dbpassword":  "www123",
+    "scriptdir":   "/home/megan/bin/",
+    "modeldir":    "/home/megan/public_html/jukebox/include/model/",
+    "dbbaseclass": "JukeboxDB"
+}
