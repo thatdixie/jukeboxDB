@@ -1,0 +1,12 @@
+{
+    "dbname":      "jukeboxDB",
+    "dbserver":    "127.0.0.1",
+    "dbport":      "3316",
+    "dbdriver":    "mysql",
+    "dbcharset":   "utf8",
+    "dbuser":      "www",
+    "dbpassword":  "www123",
+    "scriptdir":   "/home/mgill/bin/",
+    "modeldir":    "/home/mgill/www/jukebox/include/model/",
+    "dbbaseclass": "JukeboxDB"
+}
