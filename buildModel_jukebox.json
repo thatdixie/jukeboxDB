@@ -6,7 +6,12 @@
     "dbcharset":   "utf8",
     "dbuser":      "www",
     "dbpassword":  "www123",
+<<<<<<< HEAD
     "scriptdir":   "/home/megan/bin/",
     "modeldir":    "/home/megan/public_html/jukebox/include/model/",
+=======
+    "scriptdir":   "/home/mgill/bin/",
+    "modeldir":    "/home/mgill/www/jukebox/include/model/",
+>>>>>>> 75d98bfb3e701d97c1eae930820d59763a9f9566
     "dbbaseclass": "JukeboxDB"
 }
